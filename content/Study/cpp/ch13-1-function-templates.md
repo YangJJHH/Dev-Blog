@@ -1,12 +1,10 @@
 ---
 title: "[윤성우의 열혈 C++] Chapter 13-1 템플릿에 대한 이해와 함수 템플릿"
 date: 2025-03-04 00:10
-category: "카테고리 없음"
 tags:
   - "c++"
   - "template"
   - "템플릿"
-source: https://devwogur.tistory.com/25
 ---
 ## 함수를 대상으로 템플릿 이해하기
 

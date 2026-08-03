@@ -1,13 +1,11 @@
 ---
 title: "[윤성우의 열혈 C++] Chapter 13-2 클래스 템플릿"
 date: 2025-03-05 00:03
-category: "Language/C++"
 tags:
   - "c++"
   - "class-template"
   - "template"
   - "클래스-템플릿"
-source: https://devwogur.tistory.com/26
 ---
 ## 클래스 템플릿의 정의
 

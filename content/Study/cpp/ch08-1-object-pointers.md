@@ -1,12 +1,10 @@
 ---
 title: "[윤성우의 열혈 C++] Chapter 08-1 객체 포인터의 참조관계"
 date: 2025-02-27 16:14
-category: "Language/C++"
 tags:
   - "c++"
   - "객체-포인터"
   - "함수오버라이딩"
-source: https://devwogur.tistory.com/19
 ---
 ```cpp
 Person* ptr;

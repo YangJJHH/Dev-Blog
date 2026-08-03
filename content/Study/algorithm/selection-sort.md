@@ -1,12 +1,10 @@
 ---
 title: "[알고리즘] 선택정렬"
 date: 2025-03-19 21:16
-category: "알고리즘/C++"
 tags:
   - "c++"
   - "선택정렬"
   - "정렬"
-source: https://devwogur.tistory.com/31
 ---
 ## 선택정렬
 

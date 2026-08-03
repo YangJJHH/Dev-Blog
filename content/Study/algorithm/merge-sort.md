@@ -1,13 +1,11 @@
 ---
 title: "[알고리즘] Merge Sort"
 date: 2025-03-19 22:32
-category: "알고리즘/C++"
 tags:
   - "c++"
   - "Merge-sort"
   - "머지소트"
   - "정렬"
-source: https://devwogur.tistory.com/32
 ---
 ## MergeSort
 

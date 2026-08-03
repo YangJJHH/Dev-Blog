@@ -1,12 +1,10 @@
 ---
 title: "[윤성우의 열혈 C++] Chapter 05-1 복사 생성자"
 date: 2025-02-23 22:12
-category: "Language/C++"
 tags:
   - "c++"
   - "Explicit"
   - "복사생성자"
-source: https://devwogur.tistory.com/13
 ---
 ## 복사 생성자
 

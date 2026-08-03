@@ -1,14 +1,12 @@
 ---
 title: "[윤성우의 열혈 C++] Chapter 05-2 깊은 복사와 얕은 복사"
 date: 2025-02-24 00:42
-category: "Language/C++"
 tags:
   - "c++"
   - "deepcopy"
   - "ShallowCopy"
   - "깊은복사"
   - "얕은복사"
-source: https://devwogur.tistory.com/14
 ---
 디폴트 복사 생성자는 멤버 대 멤버의 복사를 진행한다. 그리고 이러한 방식의 복사를 가리켜 '얕은 복사(Shallow Copy)'라 하는데, 이는 멤버변수가 힙의 메모리 공간을 참조하는 경우에 문제가 된다.
 

@@ -1,11 +1,9 @@
 ---
 title: "[윤성우의 열혈 C++] Chapter 06-2 클래스와 함수에 대한 friend 선언"
 date: 2025-02-26 00:10
-category: "Language/C++"
 tags:
   - "c++"
   - "friend"
-source: https://devwogur.tistory.com/16
 ---
 ## 클래스의 friend 선언
 

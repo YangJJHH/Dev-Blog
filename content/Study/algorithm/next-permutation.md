@@ -1,12 +1,10 @@
 ---
 title: "[알고리즘] std::next_permutation ( 순열과 조합)"
 date: 2025-03-17 23:53
-category: "알고리즘/C++"
 tags:
   - "next_permutation"
   - "순열과-조합"
   - "알고리즘"
-source: https://devwogur.tistory.com/28
 ---
 ## 순열과 조합
 

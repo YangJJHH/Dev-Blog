@@ -1,10 +1,8 @@
 ---
 title: "[윤성우의 열혈 C++] Chapter 01-1 : printf와 scanf를 대신하는 입출력 방식"
 date: 2025-02-09 23:08
-category: "Language/C++"
 tags:
   - "c++"
-source: https://devwogur.tistory.com/1
 ---
 ## \#include \<iostream>
 

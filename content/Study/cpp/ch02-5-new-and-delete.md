@@ -1,12 +1,10 @@
 ---
 title: "[윤성우의 열혈 C++] Chapter 02-5 new & delete"
 date: 2025-02-12 23:24
-category: "Language/C++"
 tags:
   - "c++"
   - "delete"
   - "New"
-source: https://devwogur.tistory.com/8
 ---
 c에서 메모리 동적 할당/해제를 위해 사용되던 malloc , free를 대신하여 c++에서는 new, delete를 사용한다.
 

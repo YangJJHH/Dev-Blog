@@ -1,10 +1,8 @@
 ---
 title: "[윤성우의 열혈 C++] Chapter 01-4 : 인라인(inline) 함수"
 date: 2025-02-10 00:59
-category: "Language/C++"
 tags:
   - "c++"
-source: https://devwogur.tistory.com/4
 ---
 ## 매크로 함수의 장점
 

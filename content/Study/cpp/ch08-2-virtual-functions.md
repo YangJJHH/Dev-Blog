@@ -1,7 +1,6 @@
 ---
 title: "[윤성우의 열혈 C++] Chapter 08-2 가상함수"
 date: 2025-02-27 22:16
-category: "Language/C++"
 tags:
   - "c++"
   - "가상소멸자"
@@ -10,7 +9,6 @@ tags:
   - "다형성"
   - "순수가상함수"
   - "추상클래스"
-source: https://devwogur.tistory.com/20
 ---
 아래 코드를 보자
 

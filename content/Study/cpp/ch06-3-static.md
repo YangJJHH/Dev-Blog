@@ -1,12 +1,10 @@
 ---
 title: "[윤성우의 열혈 C++] Chapter 06-3 C++에서의 static"
 date: 2025-02-27 00:40
-category: "Language/C++"
 tags:
   - "c++"
   - "mutable"
   - "Static"
-source: https://devwogur.tistory.com/17
 ---
 ## C언에서의 static
 

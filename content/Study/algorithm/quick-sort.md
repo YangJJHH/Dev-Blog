@@ -1,13 +1,11 @@
 ---
 title: "[알고리즘] Quick Sort"
 date: 2025-03-19 23:41
-category: "알고리즘/C++"
 tags:
   - "c++"
   - "Quicksort"
   - "정렬"
   - "퀵정렬"
-source: https://devwogur.tistory.com/33
 ---
 ## Quick Sort
 

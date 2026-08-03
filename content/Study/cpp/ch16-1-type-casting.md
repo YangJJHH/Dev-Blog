@@ -1,7 +1,6 @@
 ---
 title: "[윤성우의 열혈 C++] Chapter 16-1 C++에서의 형변환 연산"
 date: 2025-03-05 00:25
-category: "Language/C++"
 tags:
   - "c++"
   - "const_cast"
@@ -9,7 +8,6 @@ tags:
   - "reinterpert_cast"
   - "static_cast"
   - "형변환"
-source: https://devwogur.tistory.com/27
 ---
 ## C 스타일 형변환의 문제점
 

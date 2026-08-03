@@ -1,12 +1,10 @@
 ---
 title: "[윤성우의 열혈 C++] Chapter 10-2 단항 연산자 오버로딩"
 date: 2025-03-03 16:48
-category: "Language/C++"
 tags:
   - "c++"
   - "단항-연산자-오버로딩"
   - "전위증가와-후위증가-구분"
-source: https://devwogur.tistory.com/22
 ---
 [2025.03.03 - [Language/C++] - [윤성우의 열혈 C++] Chapter 10-1 연산자 오버로딩의 이해와 유형](https://devwogur.tistory.com/21)
 

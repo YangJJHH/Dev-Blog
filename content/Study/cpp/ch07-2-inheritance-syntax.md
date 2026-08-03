@@ -1,7 +1,6 @@
 ---
 title: "[윤성우의 열혈 C++] Chapter 07-2 상속의 문법적인 이해"
 date: 2025-02-27 15:18
-category: "Language/C++"
 tags:
   - "c++"
   - "객체생성과정"
@@ -9,7 +8,6 @@ tags:
   - "기초클래스"
   - "상속"
   - "유도클래스"
-source: https://devwogur.tistory.com/18
 ---
 우선 예제코드를 통해 상속 받는 과정을 알아보자
 

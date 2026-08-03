@@ -1,12 +1,10 @@
 ---
 title: "[윤성우의 열혈 C++] Chapter 10-1 연산자 오버로딩의 이해와 유형"
 date: 2025-03-03 16:17
-category: "Language/C++"
 tags:
   - "c++"
   - "operator"
   - "연산자-오버로딩"
-source: https://devwogur.tistory.com/21
 ---
 ## operator+ 라는 이름의 함수
 

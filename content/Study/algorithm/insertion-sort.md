@@ -1,13 +1,11 @@
 ---
 title: "[알고리즘] 삽입정렬"
 date: 2025-03-19 21:04
-category: "알고리즘/C++"
 tags:
   - "c++"
   - "삽입정렬"
   - "알고리즘"
   - "정렬"
-source: https://devwogur.tistory.com/30
 ---
 ## 삽입정렬
 

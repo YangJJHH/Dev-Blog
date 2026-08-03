@@ -1,10 +1,8 @@
 ---
 title: "[윤성우의 열혈 C++] Chapter 01-3 : 매개변수의 디폴트 값 (Default Value)"
 date: 2025-02-10 00:36
-category: "Language/C++"
 tags:
   - "c++"
-source: https://devwogur.tistory.com/3
 ---
 ## 매개변수에 설정하는 디폴트 값의 의미
 

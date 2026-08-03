@@ -1,13 +1,11 @@
 ---
 title: "[알고리즘] 버블 정렬"
 date: 2025-03-19 20:17
-category: "알고리즘/C++"
 tags:
   - "c++"
   - "버블정렬"
   - "알고리즘"
   - "정렬"
-source: https://devwogur.tistory.com/29
 ---
 ## 버블 정렬
 

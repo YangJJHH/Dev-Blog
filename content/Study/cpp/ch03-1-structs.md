@@ -1,12 +1,10 @@
 ---
 title: "[윤성우의 열혈 C++] Chapter 03-1 C++에서의 구조체"
 date: 2025-02-13 00:00
-category: "Language/C++"
 tags:
   - "c++"
   - "stuct"
   - "구조체"
-source: https://devwogur.tistory.com/9
 ---
 ## C에서의 구조체 선언
 

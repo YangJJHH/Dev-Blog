@@ -1,10 +1,8 @@
 ---
 title: "[윤성우의 열혈 C++] Chapter 01-2 : 함수 오버로딩"
 date: 2025-02-09 23:55
-category: "Language/C++"
 tags:
   - "c++"
-source: https://devwogur.tistory.com/2
 ---
 ## **함수 오버로딩의 이해 (Function Overloading)**
 

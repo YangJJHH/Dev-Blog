@@ -1,10 +1,8 @@
 ---
 title: "[윤성우의 열혈 C++] Chapter 02-4 : 참조자와 함수"
 date: 2025-02-12 00:21
-category: "Language/C++"
 tags:
   - "c++"
-source: https://devwogur.tistory.com/7
 ---
 ## Call-by-value & Call-by-reference
 

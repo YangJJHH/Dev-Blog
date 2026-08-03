@@ -1,11 +1,9 @@
 ---
 title: "[윤성우의 열혈 C++] const 함수"
 date: 2025-02-20 23:23
-category: "Language/C++"
 tags:
   - "c++"
   - "const"
-source: https://devwogur.tistory.com/11
 ---
 ## const 함수
 

@@ -1,10 +1,8 @@
 ---
 title: "[윤성우의 열혈 C++] Chapter 01-5 : namepace"
 date: 2025-02-10 01:24
-category: "Language/C++"
 tags:
   - "c++"
-source: https://devwogur.tistory.com/5
 ---
 ## 문제상황
 

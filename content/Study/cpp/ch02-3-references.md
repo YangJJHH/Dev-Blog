@@ -1,10 +1,8 @@
 ---
 title: "[윤성우의 열혈 C++] Chapter 02-3 : 참조자(Reference)의 이해"
 date: 2025-02-11 01:07
-category: "Language/C++"
 tags:
   - "c++"
-source: https://devwogur.tistory.com/6
 ---
 ## Reference의 이해
 

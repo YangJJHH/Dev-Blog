@@ -1,13 +1,11 @@
 ---
 title: "[윤성우의 열혈 C++] Chapter 03-2 : 클래스(Class)와 객체(Object)"
 date: 2025-02-13 00:30
-category: "Language/C++"
 tags:
   - "c++"
   - "객체"
   - "구조체"
   - "클래스"
-source: https://devwogur.tistory.com/10
 ---
 ## 클래스와 구조체의 유일한 차이점
 

@@ -1,13 +1,11 @@
 ---
 title: "[윤성우의 열혈 C++] Chapter 10-4 cout,cin 그리고 endl의 정체"
 date: 2025-03-03 17:05
-category: "Language/C++"
 tags:
   - "c++"
   - "COUT"
   - "endl"
   - "연산자-오버로딩"
-source: https://devwogur.tistory.com/23
 ---
 ## cout과 endl 이해하기
 

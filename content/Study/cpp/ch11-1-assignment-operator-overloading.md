@@ -1,12 +1,10 @@
 ---
 title: "[윤성우의 열혈 C++] Chapter 11-1 반드시 해야 하는 대입 연산자 오버로딩"
 date: 2025-03-03 21:52
-category: "Language/C++"
 tags:
   - "c++"
   - "대입연산자"
   - "디폴트-대입연산자"
-source: https://devwogur.tistory.com/24
 ---
 ## 객체간 대입연산의 비밀 : 디폴트 대입 연산자
 

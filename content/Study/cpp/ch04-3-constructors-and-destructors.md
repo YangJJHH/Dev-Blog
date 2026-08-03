@@ -1,12 +1,10 @@
 ---
 title: "[윤성우의 열혈 C++] Chapter 04-3 생성자와 소멸자"
 date: 2025-02-21 00:10
-category: "Language/C++"
 tags:
   - "c++"
   - "생성자"
   - "소멸자"
-source: https://devwogur.tistory.com/12
 ---
 ## 생성자의 이해
 

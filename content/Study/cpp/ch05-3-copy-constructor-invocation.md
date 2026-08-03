@@ -1,13 +1,11 @@
 ---
 title: "[윤성우의 열혈 C++] Chapter 05-3 복사 생성자의 호출시점"
 date: 2025-02-24 23:28
-category: "Language/C++"
 tags:
   - "c++"
   - "복사생성자"
   - "복사생성자-호출시점"
   - "임시객체"
-source: https://devwogur.tistory.com/15
 ---
 복사 생성자가 호출되는 시점은 크게 세가지로 구분할 수 있다.
 
