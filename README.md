@@ -1,20 +1,5 @@
 # Compile & Run
 
-C++와 알고리즘 학습 정리. [Quartz](https://github.com/jackyzha0/quartz)로 빌드하는 정적 사이트입니다.
-
-**https://yangjjhh.github.io/Dev-Blog/**
-
-## 구조
-
-```
-content/            글과 이미지 (옵시디언 Vault로 열어서 편집)
-├── Study/
-│   ├── cpp/        윤성우의 열혈 C++ 정리
-│   └── algorithm/  정렬, 순열과 조합
-├── rsc/            이미지
-└── index.md        홈페이지
-```
-
 글의 이미지는 위키링크 임베드(`![[그림.png]]`)로 참조합니다. 경로가 아니라 파일명으로 해석되므로 노트를 다른 폴더로 옮겨도 링크가 깨지지 않습니다.
 
 ## 로컬에서 확인
