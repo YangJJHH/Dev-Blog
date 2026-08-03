@@ -71,7 +71,11 @@ const PageNavigation = () => {
     const folder = folderOf(slug)
     const siblings = allFiles
       .filter(
-        (f) => f.unlisted !== true && basename(f.slug) !== "index" && folderOf(f.slug) === folder,
+        (f) =>
+          f.unlisted !== true &&
+          f.slug !== "404" &&
+          basename(f.slug) !== "index" &&
+          folderOf(f.slug) === folder,
       )
       .sort((a, b) => a.slug.localeCompare(b.slug, undefined, { numeric: true }))
 
