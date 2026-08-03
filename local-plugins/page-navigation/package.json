@@ -1,0 +1,37 @@
+{
+  "name": "@local/page-navigation",
+  "version": "1.0.0",
+  "description": "Previous/next links between sibling notes in the same folder",
+  "private": true,
+  "type": "module",
+  "exports": {
+    ".": {
+      "import": "./index.js"
+    },
+    "./components": {
+      "import": "./components.js"
+    },
+    "./package.json": "./package.json"
+  },
+  "main": "./index.js",
+  "quartz": {
+    "name": "page-navigation",
+    "displayName": "Page Navigation",
+    "description": "Previous/next links between sibling notes in the same folder",
+    "category": "component",
+    "version": "1.0.0",
+    "quartzVersion": ">=5.0.0",
+    "dependencies": [],
+    "defaultOrder": 50,
+    "defaultEnabled": true,
+    "components": {
+      "PageNavigation": {
+        "displayName": "Page Navigation",
+        "description": "Previous/next links between sibling notes in the same folder",
+        "version": "1.0.0",
+        "defaultPosition": "afterBody",
+        "defaultPriority": 20
+      }
+    }
+  }
+}
