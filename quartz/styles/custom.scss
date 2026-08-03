@@ -1,3 +1,32 @@
 @use "./variables.scss" as *;
 
-// put your custom CSS here!
+// Folder and tag listings: keep every row the same height.
+//
+// Quartz lays each row out as a grid (date | title | tags) but never makes the
+// tag list horizontal, so the <li>s stack and a post with five tags is five
+// lines tall while a post with one tag is one -- the listing spacing ends up
+// uneven. Hide the tags here so every row is a single line; the full tag list
+// is still on the post itself and on the tag pages. Quartz already does this
+// on narrow screens and in popovers.
+li.section-li > .section {
+  // drop the now-empty third column so the title gets the space.
+  // max-content, not fit-content(8em) -- a Korean date ("2025년 3월 05일")
+  // overflows 8em and wraps onto a second line.
+  grid-template-columns: max-content 1fr;
+
+  > .meta {
+    white-space: nowrap;
+  }
+
+  > ul.tags {
+    display: none;
+  }
+}
+
+// Quartz caps the whole page at 1500px, which leaves only ~860px for the
+// article once the two 320px sidebars are subtracted -- cramped for code
+// blocks on a wide monitor. Widen the cap; the sidebars keep their width, so
+// the extra space all goes to the article.
+.page {
+  max-width: 1800px;
+}
