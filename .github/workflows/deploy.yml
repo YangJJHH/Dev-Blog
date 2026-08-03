@@ -4,6 +4,7 @@ on:
   push:
     branches:
       - main
+  workflow_dispatch: # lets you re-deploy from the Actions tab without a commit
 
 permissions:
   contents: read
