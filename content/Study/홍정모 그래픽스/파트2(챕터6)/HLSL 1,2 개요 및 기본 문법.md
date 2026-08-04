@@ -84,7 +84,7 @@ mul과 같이 미리 정의 함수 관련 정보
 # PixelShader
 
 픽셀쉐이더도 마찬가지로 Input이 정의가 되어있다 (vertexShader의 PixelShaderInput 과 동일함)
-```c
+```cpp
 struct PixelShaderInput {
     float4 pos : SV_POSITION;
     float3 color : COLOR;
@@ -93,7 +93,7 @@ struct PixelShaderInput {
 ```
 
 main
-```c
+```cpp
 float4 main(PixelShaderInput input) : SV_TARGET {
 
     // TODO: 텍스춰 좌표를 이용해서 색 결정

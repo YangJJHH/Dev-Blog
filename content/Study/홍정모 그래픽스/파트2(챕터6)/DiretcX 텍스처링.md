@@ -110,7 +110,7 @@ pixelResources[1] 이렇게 배열 형태로 만들어서 넘겨주는 이유는
 
 ## PixelShader
 PixelShader코드이다.
-```c
+```cpp
 Texture2D g_texture0 : register(t0);
 SamplerState g_sampler : register(s0);
 

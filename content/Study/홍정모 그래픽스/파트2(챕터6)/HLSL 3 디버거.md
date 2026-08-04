@@ -2,7 +2,7 @@
 tags:
   - Part2
 ---
-```c
+```cpp
 #if defined(DEBUG) || defined(_DEBUG)
     compileFlags = D3DCOMPILE_DEBUG | D3DCOMPILE_SKIP_OPTIMIZATION;
 ```
@@ -20,7 +20,7 @@ tags:
 
 ## 쉐이더를 컴파일 하는 방법
 
-```c
+```cpp
 D3DCompileFromFile(filename.c_str(), 0, 0, "main", "vs_5_0",
                                     compileFlags, 0, &shaderBlob, &errorBlob);
 ```
@@ -31,7 +31,7 @@ D3DCompileFromFile(filename.c_str(), 0, 0, "main", "vs_5_0",
 cso파일이 만들어지게된다. (Compiled Shader Object)
 ![[Pasted image 20240929210631.png]]
 
-```c
+```cpp
 // 참고: 수동으로 컴파일 하기
     // "fxc.exe"의 위치는 각자 다를 수도 있습니다.
     //"C:\Program Files (x86)\Windows Kits\10\bin\10.0.19041.0\x86\fxc.exe"

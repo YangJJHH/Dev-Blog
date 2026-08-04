@@ -10,7 +10,7 @@ tags:
 
 
 ## Common.hlsli
-```c
+```cpp
 // 쉐이더에서 include할 내용들은 .hlsli 파일에 작성
 // Properties -> Item Type: Does not participate in build으로 설정
 
@@ -143,7 +143,7 @@ struct PixelShaderInput
 
 
 ## VertexShader
-```c
+```cpp
 #include "Common.hlsli" // 쉐이더에서도 include 사용 가능
 cbuffer VertexConstantBuffer : register(b0)
 {
@@ -157,7 +157,7 @@ Common.hlsli를 포함시킨다.
 VertexShader에서 사용할 ConstantBuffer를 정의하는 부분인데 invTranspose이게 이해가 잘 안간다면 [[NonUniformScaling]] 다시 확인.
 
 main
-```c
+```cpp
 PixelShaderInput main(VertexShaderInput input)
 {
     // 모델(Model) 행렬은 모델 자신의 원점에서 
@@ -219,7 +219,7 @@ Light
 	 조명 타입에 따른 정보들
 
 main
-```c
+```cpp
 float4 main(PixelShaderInput input) : SV_TARGET
 {
     float3 toEye = normalize(eyeWorld - input.posWorld);
@@ -353,7 +353,7 @@ diffuse,specular도 Constantbuffer로 전달해주고 선택되지 않은 라이
 ![[Pasted image 20241001153811.png]]
 
 ## 블린-퐁 쉐이딩, point,spot,directionalLight 코드
-```c
+```cpp
 float CalcAttenuation(float d, float falloffStart, float falloffEnd)
 {
     // Linear falloff

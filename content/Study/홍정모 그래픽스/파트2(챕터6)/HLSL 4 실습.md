@@ -4,7 +4,7 @@ tags:
 ---
 **주의사항**
 Constant버퍼로 마음대로 데이터를 보낼수있지만 보내는경우 구조체가 16바이트의 배수여야 한다.
-```c
+```cpp
 struct ModelViewProjectionConstantBuffer {
     Matrix model;
     Matrix view;
