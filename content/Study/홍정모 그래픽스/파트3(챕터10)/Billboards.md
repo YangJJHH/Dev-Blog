@@ -140,7 +140,7 @@ PixelShaderOutput main(PixelShaderInput input)
 ```
 
 그 다음 샘플링 하는걸 보면 
-```cpp 
+```cpp
 float3 uvw = float3(input.texCoord, float(input.primID % 5));
 float4 pixelColor = g_texArray.Sample(g_sampler, uvw);
 ```
@@ -173,7 +173,7 @@ float4 right = float4(cross(up.xyz, normalize(front.xyz)),0.0);
 up벡터는 위쪽이라 가정하고
 eyeWolrd방향의 front벡터를 구하고 up벡터와 cross해서 right의 방향벡터를 구한다
 
-```cpp 
+```cpp
 PixelShaderInput output;
     output.pos = input[0].pos - hw * right - hw *up;
     output.pos = mul(output.pos, view);

@@ -10,7 +10,7 @@ ComPtr은 COM에서 사용하는 일종의 스마트 포인터라 생각하면�
 ID3D11Device 형의 포인터인 device를 Comptr<>를 통해 선언하고
 D3D11CreateDevice()를 함수를 통해 device를 생성한다.
 이처럼 COM에서는 지정된 함수를 통해 생성해줘야만 한다. 일종의 규칙이라 이해하자,,
-```C++
+```cpp
 	Microsoft::WRL::ComPtr<ID3D11Device> device; // COM interface
     Microsoft::WRL::ComPtr<ID3D11DeviceContext> context;
 
